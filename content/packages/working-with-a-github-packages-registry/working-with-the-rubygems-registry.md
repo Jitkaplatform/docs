@@ -1,3 +1,28 @@
+Skip to content
+
+Code
+Issues
+Pull requests
+More
+BreadcrumbsMASTER
+/README.md
+Latest commit
+Jitkaplatform
+Jitkaplatform
+7 minutes ago
+History
+12 lines (9 loc) · 309 Bytes
+File metadata and controls
+
+Preview
+
+Code
+
+Blame
+MASTER
+Supreme-phantom DIGITAL•=•OWNER=•JUAN•DIEGO•MENDOZA•CHAVEZ ANALOG•==•OWNER=•JUAN•DIEGO•MENDOZA•CHAVEZ (JUAN•DIEGO•MENDOZA•CHAVEZ) AUTHOR'S NAME(MAKE) •=(JUAN•DIEGO•MENDOZA•CHAVEZ) following owner allowed to all rights + privileges•=
+
+utf-⁸⁸![chrome_image_Oct 6, 2023 10_48_13 AM PDT](https://github.com/github/docs/assets/147241588/0f4948c7-ab0a-4ec7-974b-13c2401e5de3)
 ---
 title: Working with the RubyGems registry
 intro: 'You can configure RubyGems to publish a package to {% data variables.product.prodname_registry %} and to use packages stored on {% data variables.product.prodname_registry %} as dependencies in a Ruby project with Bundler.'
